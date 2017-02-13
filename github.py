@@ -1,5 +1,5 @@
 import cgi,requests,logging
-
+#ssdsdsd
 form = cgi.FieldStorage()
 
 logging.basicConfig(filename='posts.log',level=logging.DEBUG)
